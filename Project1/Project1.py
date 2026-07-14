@@ -2,7 +2,6 @@
 #  Beginning project with yfinance and others to learn and possibly  QuantLib and pyql
 
 
-import yfinance as yf
 import pandas as pd
 import numpy as np
 from datetime import datetime
